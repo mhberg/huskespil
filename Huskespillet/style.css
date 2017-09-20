@@ -1,0 +1,21 @@
+button{
+  margin-left:10px;
+  margin-bottom:10px;
+  width:100px;
+}
+
+img {
+  max-height: 150px;
+  max-width: 150px;
+  margin:2px;
+  border:2px solid black;
+  position:relative;
+}
+
+img:hover{
+  opacity:0.7;
+}
+
+.found{
+  opacity:0.7;
+}
